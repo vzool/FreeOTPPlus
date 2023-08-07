@@ -43,8 +43,10 @@
     <string name="ok_text">Aceptar</string>
     <string name="cancel_text">Cancelar</string>
     <string name="import_json_format">Importar formato JSON</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Importar clave de formato URI</string>
     <string name="export_json_format">Exportar a formato JSON</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Exportar clave a formato URI</string>
     <string name="use_dark_theme">Usar tema oscuro</string>
     <string name="add_token_success">El token se ha añadido correctamente</string>

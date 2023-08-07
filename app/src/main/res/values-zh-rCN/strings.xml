@@ -43,8 +43,10 @@
     <string name="ok_text">好</string>
     <string name="cancel_text">取消</string>
     <string name="import_json_format">导入 JSON 格式</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">导入密钥 URI 格式</string>
     <string name="export_json_format">导出 JSON 格式</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">导出密钥 URI 格式</string>
     <string name="use_dark_theme">使用深色主题</string>
     <string name="add_token_success">已成功添加令牌</string>

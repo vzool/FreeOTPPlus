@@ -398,7 +398,7 @@ class MainActivity : AppCompatActivity() {
         } catch (e: ActivityNotFoundException) {
             Log.e(TAG, "Cannot find activity", e)
             Toast.makeText(applicationContext,
-                    getString(R.string.launch_file_browser_failure), Toast.LENGTH_SHORT).show();
+                     getString(R.string.launch_file_browser_failure), Toast.LENGTH_SHORT).show();
         }
     }
 

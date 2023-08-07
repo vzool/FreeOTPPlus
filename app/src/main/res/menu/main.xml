@@ -37,6 +37,9 @@
                 android:id="@+id/action_import_json"
                 android:title="@string/import_json_format" />
             <item
+                android:id="@+id/action_import_json_encrypted"
+                android:title="@string/import_json_format" />
+            <item
                 android:id="@+id/action_import_key_uri"
                 android:title="@string/import_key_uri_format" />
         </menu>
@@ -48,6 +51,9 @@
             <item
                 android:id="@+id/action_export_json"
                 android:title="@string/export_json_format" />
+            <item
+                android:id="@+id/action_export_json_encrypted"
+                android:title="@string/export_json_format_encrypted" />
             <item
                 android:id="@+id/action_export_key_uri"
                 android:title="@string/export_key_uri_format" />

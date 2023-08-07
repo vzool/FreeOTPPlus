@@ -43,8 +43,10 @@
     <string name="ok_text">හරි</string>
     <string name="cancel_text">සිදු කරන්න</string>
     <string name="import_json_format">JSON ආකෘතිය ආයාත කරන්න</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">යතුරු URI ආකෘතිය ආයාත කරන්න</string>
     <string name="export_json_format">JSON ආකෘතිය අපනයනය කරන්න</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">යතුර URI ආකෘතිය අපනයනය කරන්න</string>
     <string name="use_dark_theme">අඳුරු නිෂ්පාදන භාවිතා කරන්න</string>
     <string name="add_token_success">ටෝකනය සාර්ථකව එකතු කරන ලදී</string>

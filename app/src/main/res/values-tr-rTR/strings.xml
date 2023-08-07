@@ -43,8 +43,10 @@
     <string name="ok_text">Tamam</string>
     <string name="cancel_text">İptal</string>
     <string name="import_json_format">JSON formatını içe aktar</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Anahtar URI formatını içe aktar</string>
     <string name="export_json_format">JSON formatını dışa aktar</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Anahtar URI formatını dışa aktar</string>
     <string name="use_dark_theme">Koyu tema kullan</string>
     <string name="add_token_success">Token başarıyla eklendi</string>

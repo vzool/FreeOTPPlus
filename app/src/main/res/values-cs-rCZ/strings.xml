@@ -43,8 +43,10 @@
     <string name="ok_text">Ok</string>
     <string name="cancel_text">Storno</string>
     <string name="import_json_format">Importovat formát JSON</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Importovat formát key URI</string>
     <string name="export_json_format">Exportovat formát JSON</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Exportovat formát key URI</string>
     <string name="use_dark_theme">Použít tmavý motiv</string>
     <string name="add_token_success">Token byl úspěšně přidán</string>

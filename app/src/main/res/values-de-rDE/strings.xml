@@ -43,8 +43,10 @@
     <string name="ok_text">Ok</string>
     <string name="cancel_text">Abbrechen</string>
     <string name="import_json_format">JSON-Format importieren</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Import Schlüssel-Url-Format</string>
     <string name="export_json_format">JSON-Format exportieren</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Export Schlüssel-Url-Format</string>
     <string name="use_dark_theme">Dunkles Design verwenden</string>
     <string name="add_token_success">Der Token wurde erfolgreich hinzugefügt</string>

@@ -43,8 +43,10 @@
     <string name="ok_text">Гаразд</string>
     <string name="cancel_text">Скасувати</string>
     <string name="import_json_format">Імпортувати формат JSON</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Імпортувати формат URI ключа</string>
     <string name="export_json_format">Експортувати у формат JSON</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Експортувати формат URI ключа</string>
     <string name="use_dark_theme">Використовувати темну тему</string>
     <string name="add_token_success">Ключ успішно додано</string>

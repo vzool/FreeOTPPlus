@@ -43,8 +43,10 @@
     <string name="ok_text">Ok</string>
     <string name="cancel_text">Kanselleer</string>
     <string name="import_json_format">Voer JSON formaat in</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Voer sleutel URI formaat in</string>
     <string name="export_json_format">Voer JSON formaat uit</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Voer sleutel uri formaat uit</string>
     <string name="use_dark_theme">Gebruik donker tema</string>
     <string name="add_token_success">Die kenteken was suksesvol begevoeg.</string>

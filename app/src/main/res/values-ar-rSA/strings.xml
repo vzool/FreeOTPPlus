@@ -43,8 +43,10 @@
     <string name="ok_text">موافق</string>
     <string name="cancel_text">إلغاء</string>
     <string name="import_json_format">استيراد تنسيق JSON</string>
+    <string name="import_json_format_encrypted">استيراد تنسيق JSON (مشفر)</string>
     <string name="import_key_uri_format">استيراد نسق URI للمفتاح</string>
     <string name="export_json_format">تصدير بتنسيق JSON</string>
+    <string name="export_json_format_encrypted">تصدير بتنسيق JSON (مشفر)</string>
     <string name="export_key_uri_format">تصدير بتنسيق URI للمفتاح </string>
     <string name="use_dark_theme">إستخدام المظهر الغامق</string>
     <string name="add_token_success">تم اضافة الرمز المميز بنجاح </string>

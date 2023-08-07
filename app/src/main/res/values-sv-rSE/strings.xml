@@ -43,8 +43,10 @@
     <string name="ok_text">Ok</string>
     <string name="cancel_text">Avbryt</string>
     <string name="import_json_format">Importera JSON-format</string>
+    <string name="import_json_format_encrypted">Import JSON format (Encrypted)</string>
     <string name="import_key_uri_format">Importera nyckel-URI-format</string>
     <string name="export_json_format">Exportera JSON-format</string>
+    <string name="export_json_format_encrypted">Export JSON format (Encrypted)</string>
     <string name="export_key_uri_format">Exportera nyckel-URI-format</string>
     <string name="use_dark_theme">Använd mörkt tema</string>
     <string name="add_token_success">Token har lagts till</string>
